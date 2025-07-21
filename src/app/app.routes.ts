@@ -1,3 +1,8 @@
-import { Routes } from '@angular/router';
+import { Router, Routes } from '@angular/router';
 
-export const routes: Routes = [];
+//import { Header } from './header/header';
+
+export const routes: Routes = [
+    //{path:'routes', component:Router},
+    //{path:'header', component:Header}
+];
